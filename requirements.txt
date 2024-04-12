@@ -17,6 +17,6 @@ spacy==3.7.4
 spacy_langdetect==0.1.2
 streamlit==1.12.0
 tika==2.6.0
-torch==1.12.0
+torch==2.2.2
 transformers==4.38.1
 yake==0.4.8
