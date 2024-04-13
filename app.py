@@ -1,4 +1,12 @@
 import streamlit as st
+import nltk
+
+# Download NLTK resources
+def download_nltk_resources():
+    nltk.download('stopwords')
+
+download_nltk_resources()
+
 import hangul
   # Import the detect function from your hangul module
 
