@@ -22,4 +22,5 @@ tika==2.6.0
 torch==2.2.2
 transformers==4.38.1
 yake==0.4.8
+Lxml
 
